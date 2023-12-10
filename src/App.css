@@ -1,0 +1,27 @@
+
+.bob{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.lol {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.pop{
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding-left: 45px;
+  padding-right: 45px;
+  margin-top: 25px;}
+
+.kok{
+  display: flex;
+  align-items: flex-start;}
+
+  .top{
+    margin: 15px;
+  }
